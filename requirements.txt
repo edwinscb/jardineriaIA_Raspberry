@@ -3,3 +3,4 @@ smbus2
 adafruit-circuitpython-ads1x15
 adafruit-blinka
 requests
+adafruit-circuitpython-bh1750
